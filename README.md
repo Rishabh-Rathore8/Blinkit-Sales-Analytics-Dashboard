@@ -131,10 +131,3 @@ By combining multiple business dimensions into a single interactive dashboard, t
 
 **6. Screenshots / Demos**
 <img width="1210" height="742" alt="Screenshot 2026-10-05 130553" src="https://github.com/user-attachments/assets/22055fcc-46d2-4e51-a4fb-6d2287a12cc4" />
-
-
-## 📌 Project Status
-
-**Completed — Personal Power BI Practice Project**
-
-This project
