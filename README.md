@@ -74,7 +74,6 @@ The dashboard provides a high-level overview of important metrics such as:
 - Total Items Sold
 - Average Sales
 - Average Customer Rating
-- Discount-related metrics
 
 These KPIs provide an immediate snapshot of overall business performance.
 
